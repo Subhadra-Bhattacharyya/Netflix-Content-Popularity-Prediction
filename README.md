@@ -82,9 +82,40 @@ This project aims to build a supervised machine learning model to predict whethe
 
 ---
 
-## 🏁 How to Run the Project
+Install dependencies:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-popularity-prediction.git
-   cd netflix-popularity-prediction
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the Jupyter notebook:
+
+bash
+Copy
+Edit
+jupyter notebook Netflix_Content_Popularity_prediction.ipynb
+🔮 Future Work
+Use BERT or transformer-based models for better description understanding.
+
+Incorporate user behavior or rating data.
+
+Build a Flask or Streamlit web app for live prediction.
+
+Explore multi-class classification (e.g., Very Popular, Average, Unpopular).
+
+📚 References
+Netflix Dataset – Kaggle
+
+Scikit-learn Documentation
+
+XGBoost Paper
+
+TF-IDF Guide – Sklearn
+
+👨‍💻 Author
+Subhadra Bhattacharyya
+Data Science Enthusiast | ML Developer
+Contact: subhadrabhattacharyya7@gmail.com
+Feel free to reach out for collaboration or questions!
+
+
