@@ -83,25 +83,16 @@ This project aims to build a supervised machine learning model to predict whethe
 ---
 
 Install dependencies:
-
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Run the Jupyter notebook:
-
-bash
-Copy
-Edit
 jupyter notebook Netflix_Content_Popularity_prediction.ipynb
+
 🔮 Future Work
-Use BERT or transformer-based models for better description understanding.
-
-Incorporate user behavior or rating data.
-
-Build a Flask or Streamlit web app for live prediction.
-
-Explore multi-class classification (e.g., Very Popular, Average, Unpopular).
+1. Use BERT or transformer-based models for better description understanding.
+2. Incorporate user behavior or rating data.
+3. Build a Flask or Streamlit web app for live prediction.
+4. Explore multi-class classification (e.g., Very Popular, Average, Unpopular).
 
 📚 References
 Netflix Dataset – Kaggle
